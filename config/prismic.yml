@@ -1,7 +1,14 @@
 ---
-url: https://lesbonneschoses.prismic.io/api
+url: https://brookelaw.prismic.io/api
 # If specified this token is used for all "guest" requests
-# token: ""
+token: "MC5VdHJBWGdFQUFENWZrQ0ZH.WO-_ve-_ve-_vX1jJe-_ve-_vTcgYA5377-977-9YO-_ve-_ve-_vUzvv73vv73vv73vv71t77-977-977-9Vu-_ve-_vQ"
+ 
+ 
+
+# Required if you want to enable interaction OAuth authentication. You can list several comma separated URLs.
+
+# Link to the WebLink to a DocumentLink to a Media item
+
 # OAuth2 configuration
-# client_id: ""
-# client_secret: ""
+client_id: "UtrAXgEAACdfkCFF"
+client_secret: "e5e9335d42ba94973440c67b844f87c8"
